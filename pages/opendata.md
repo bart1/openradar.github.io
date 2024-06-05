@@ -15,6 +15,8 @@
 ## Royal Netherlands Meteorological Institute (KNMI)
 <https://data.knmi.nl/datasets?q=radar>
 
+## Finnish Meteorological Institute (FMI)
+<https://registry.opendata.aws/fmi-radar/>
 
 ## wradlib example data
 <https://github.com/wradlib/wradlib-data>
